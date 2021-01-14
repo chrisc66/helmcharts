@@ -20,6 +20,6 @@ entries:
     name: openj9-jitserver-chart
     type: application
     urls:
-    - openj9-jitserver-chart-0.24.0.tgz
+    - https://github.com/chrisc66/helmcharts/files/5825216/openj9-jitserver-chart-0.24.0.tar.gz
     version: 0.24.0
 generated: "2021-01-13T20:11:17.192521195-08:00"
